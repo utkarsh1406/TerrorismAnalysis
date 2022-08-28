@@ -12,6 +12,7 @@
 - What all security issues and insights you can derive by Exploratory Data Analysis?
 
 **Learning Outcome**: 
+
             * Exploratory Data Analysis
             * Descriptive Statistics
             * Data Visualization
