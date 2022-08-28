@@ -21,6 +21,8 @@
 **Technical Stack :** numpy, pandas, matplotlib, seaborn
 # 
 
+#  [Link to DataSet](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)
+
 **FinaL outcome :** 
 - The final dashbord for world terrorism is found to be :
 <img src="https://github.com/utkarsh1406/TerrorismAnalysis/blob/main/World%20Terrorism%20attack.png" align = "center" idth="800" height="500">
